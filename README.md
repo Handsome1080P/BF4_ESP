@@ -6,7 +6,7 @@ Block Bitblt
 bypass anti cheat FF,PB,BF4DB,GGC
 
 fix drop fps lock fps game 65 and play only full screen
-open game and open cheat
+open game and open cheat(run as administrator)
 photos
 [url]https://imgur.com/a/u89rTzH[/url]
 
