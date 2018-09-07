@@ -10,7 +10,6 @@ namespace PZ_BF4
 
         static void Main(string[] args)
         {
-            CHWID id = new CHWID();
 
             while (true)
             {
@@ -18,25 +17,6 @@ namespace PZ_BF4
                 {
                     Thread.Sleep(9000);
                     Overlay overlay = new Overlay(process);
-
-                    if ((id.myid())) // HWID IF YOU WANT REMOVED
-                    {
-                       // Overlay overlay = new Overlay(process);
-
-                    }
-                    else
-                    {
-                        Console.WriteLine(@"EXPIRED ):");
-                        Thread.Sleep(5000);
-                        ProcessStartInfo Info = new ProcessStartInfo();
-                        Info.Arguments = "/C choice /C Y /N /D Y /T 3 & Del " +
-                        Application.ExecutablePath;
-                        Info.WindowStyle = ProcessWindowStyle.Hidden;
-                        Info.CreateNoWindow = true;
-                        Info.FileName = "cmd.exe";
-                        Process.Start(Info);
-                        Environment.Exit(0);
-                    }
                     break;
                 }
                 Thread.Sleep(100);
