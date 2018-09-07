@@ -1,0 +1,34 @@
+C:\Users\G1\Desktop\New folder\PZ_BF4.exe.config
+C:\Users\G1\Desktop\New folder\PZ_BF4.exe
+C:\Users\G1\Desktop\New folder\PZ_BF4.pdb
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.csprojAssemblyReference.cache
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ.Properties.Resources.resources
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.csproj.GenerateResource.cache
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.csproj.CoreCompileInputs.cache
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.csproj.CopyComplete
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.exe
+C:\Users\G1\Desktop\BF4_v4\obj\Debug\PZ_BF4.pdb
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.csprojAssemblyReference.cache
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ.Properties.Resources.resources
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.csproj.GenerateResource.cache
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.csproj.CoreCompileInputs.cache
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.exe
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.pdb
+C:\Users\G1\Desktop\BF4_v4_1\obj\Debug\PZ_BF4.csproj.CopyComplete
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.csprojAssemblyReference.cache
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ.Properties.Resources.resources
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.csproj.GenerateResource.cache
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.csproj.CoreCompileInputs.cache
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.exe
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.pdb
+C:\Users\G1\Desktop\New folder (2)\PZ_BF4.exe.config
+C:\Users\G1\Desktop\New folder (2)\PZ_BF4.exe
+C:\Users\G1\Desktop\New folder (2)\PZ_BF4.pdb
+C:\Users\G1\Desktop\BF4_v4_2\obj\Debug\PZ_BF4.csproj.CopyComplete
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.csprojAssemblyReference.cache
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ.Properties.Resources.resources
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.csproj.GenerateResource.cache
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.csproj.CoreCompileInputs.cache
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.csproj.CopyComplete
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.exe
+C:\Users\G1\Desktop\BF4_v4_3\obj\Debug\PZ_BF4.pdb
