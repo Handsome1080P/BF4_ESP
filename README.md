@@ -1,0 +1,13 @@
+bf4 esp fix drop fps (SharpDX v4)
+
+Block FF SS
+Block Bitblt
+
+bypass anti cheat FF,PB,BF4DB,GGC
+
+fix drop fps lock fps game 65 and play only full screen
+open game and open cheat
+photos
+[url]https://imgur.com/a/u89rTzH[/url]
+
+Coders MKO,YatoDev,coltonon
