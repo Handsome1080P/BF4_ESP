@@ -28,7 +28,7 @@ namespace PZ_BF4
         private IntPtr handle;
 
         private bool OPTIONS_AA = false;
-        private bool OPTIONS_VSync = false;
+        private bool OPTIONS_VSync = true; //lock fps cheat 60 fps
         private bool OPTIONS_ShowFPS = true;
 
         private OverlayWindow overlay;
