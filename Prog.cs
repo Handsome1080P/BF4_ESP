@@ -15,7 +15,7 @@ namespace PZ_BF4
             {
                 if (GetProcessesByName("bf4", out Process process))
                 {
-                    Thread.Sleep(200);
+                    Thread.Sleep(9000); //start Overlay after 9 Seconds
                     Overlay overlay = new Overlay(process);
                     break;
                 }
