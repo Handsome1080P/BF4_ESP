@@ -18,4 +18,5 @@ install this tools
 
 Download Files "https://www.unknowncheats.me/forum/star-wars-battlefront-2-a/253111-bitblt-hooker-lib.html"]https://www.unknowncheats.me/forum/star-wars-battlefront-2-a/253111-bitblt-hooker-lib.html
 
+video https://youtu.be/QBH22il-G1o
 Coders MKO,YatoDev,coltonon
